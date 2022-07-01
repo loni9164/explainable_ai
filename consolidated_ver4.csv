@@ -1,4 +1,4 @@
-narration,transaction_type,class_name,class_id
+﻿narration,transaction_type,class_name,class_id
 1030970766982876/TOMGOOGLEPLAYMASTERM,Debit,App Payment,0
 POS 405988XXXXXX2894 GOOGLE *SERVICES POS DEBIT,Debit,App Payment,0
 POS 405988XXXXXX2894 GOOGLE *SERVICES POS DEBIT,Debit,App Payment,0
@@ -4556,7 +4556,7 @@ NFS/CASH WDL/08-12-14                             ,Debit,Cash Withdrawal,1
 UPI/930954512120/November 2019 r/8879390725@ybl/Ax,Credit,Inward Payment,12
 UPI/734114262866/rahulsmahant@okaxis              ,Debit,Outward Payment,15
 NFS/CASH WDL/02-04-15                             ,Debit,Cash Withdrawal,1
-VPS/BY THE WAY /20160331234432/0                  ,Debit,Otherd,
+VPS/BY THE WAY /20160331234432/0                  ,Debit,Others,14
 UPI/922615204928/Farewell/hardy245@okicic/ICICI Ba,Credit,Inward Payment,12
 UPI/904038041129/Oid7306239992@O/add-money@paytm/P,Debit,Outward Payment,15
 UPI/933847669619/Oid9833326471@P/paybil3066@payt/P,Debit,Outward Payment,15
